@@ -2,4 +2,4 @@
 
 ## Description
 
-This is a backup copy of an old wordpress clients wordpress theme.  
+This is a backup copy of an a former client's wordpress theme.  
